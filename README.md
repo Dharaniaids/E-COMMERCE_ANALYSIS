@@ -1,7 +1,4 @@
 # E-COMMERCE_ANALYSIS
-Thanks for uploading your Power BI template file (`E COMMERCE ANALYSIS.pbit`). Based on this, I’ll tailor your GitHub project description specifically for a **Power BI-based E-Commerce Analysis**. You can copy this content into your GitHub repository `README.md` file.
-
----
 
 # 🛒 E-Commerce Sales Analysis with Power BI
 
